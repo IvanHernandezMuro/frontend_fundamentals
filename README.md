@@ -1,2 +1,2 @@
-# frontend_fundamentals
-Desarrollo de página con HTML y CSS
+# Frontend_Fundamental_01
+Proyecto para Bedu
